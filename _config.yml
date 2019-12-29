@@ -19,15 +19,15 @@ texture:
   title: JYS
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
-  style: black
+  style: green
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    #twitter: thelehhman
+    github:  jysim07
+    #linkedIn: in/thelehhman
     rss: rss
  
 
