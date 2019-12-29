@@ -12,8 +12,11 @@ sass:
   sass_dir: _sass
 
 permalink: /posts/:title/
+
+disqus-shortname: jysim07
+
 texture:
-  title: Adam Denisov
+  title: JYS
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
