@@ -36,5 +36,9 @@
     </div>
   </main>
   {%- include footer.html -%}
+  
+  
+{% if site.disqus-shortname %}{% include disqus.html %}{% endif %}
+
 </body>
 </html>
